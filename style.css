@@ -1,0 +1,19 @@
+body {
+  padding:20px;
+}
+
+@media (max-width: 980px) {
+  body {
+    padding-top: 0;
+  }
+}
+img {
+max-width: 50%;
+    height: auto;
+  }
+
+.header-container {
+
+    margin-top: 20px;
+
+}

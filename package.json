@@ -1,0 +1,23 @@
+{
+  "name": "gae",
+  "version": "1.0.0",
+  "description": "experiments with app engine",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultrons/gae.git"
+  },
+  "author": "Vaibhav Singh <singh.vaibhav.83@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultrons/gae/issues"
+  },
+  "homepage": "https://github.com/ultrons/gae#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
